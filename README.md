@@ -33,7 +33,7 @@
         <tr>
             <td>Spring Tools&nbsp;</td>
             <td>Spring Data&nbsp;</td>
-            <td>PostgreSQL&nbsp;</td>
+            <td>Spring Boot&nbsp;</td>
         </tr>
       <tr>
             <td>PostgreSQL&nbsp;</td>
@@ -44,12 +44,6 @@
             <td>HTML5&nbsp;</td>
             <td>CSS3&nbsp;</td>
             <td>Javascript&nbsp;</td>
-        </tr>
-      <tr>
-            <td>HTML5&nbsp;</td>
-            <td>CSS3&nbsp;</td>
-            <td>Javascript&nbsp;</td>
-        </tr>
       <tr>
             <td>Angular&nbsp;</td>
             <td>Visual Studio&nbsp;</td>
